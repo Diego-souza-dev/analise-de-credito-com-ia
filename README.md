@@ -18,7 +18,7 @@ API desenvolvida em Python para simular a avaliação de crédito de clientes em
 
 ## 🔗 Teste o Projeto Online
 Acesse a documentação interativa (Swagger UI) e teste a API direto no navegador:
-**[COLOQUE_SEU_LINK_DO_RENDER_AQUI]**
+https://analise-de-credito-com-ia.onrender.com/docs
 
 ## 👨‍💻 Autor
 **Diego Souza Santos**
